@@ -1,5 +1,5 @@
 body {
-    color: #333333;
+    color: whitesmoke;
     font-family: arial;
     max-width: 650px;
     margin: 0 auto;
@@ -31,6 +31,7 @@ header {
 h1 {
     font-size: 64px;
     margin-bottom: 16px;
+    color: #888888
 }
 
 header a {
